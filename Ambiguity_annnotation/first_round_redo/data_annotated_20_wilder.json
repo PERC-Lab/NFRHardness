@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "description": "The system shall implement procedures for monitoring log-in attempts and reporting discrepancies.",
+        "Lexical": false,
+        "Syntactic": true,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 2,
+        "description": "The system shall implement procedures for creating passwords.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 3,
+        "description": "The system shall implement procedures for changing passwords.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 4,
+        "description": "The system shall implement procedures for safeguarding passwords.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 5,
+        "description": "The system shall support implementing policies and procedures to address security incidents.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 6,
+        "description": "The system shall identify and respond to suspected or known security incidents.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 7,
+        "description": "The system shall mitigate harmful effects to the extent practicable after a suspected or known security incidents.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 8,
+        "description": "The system shall document security incidents and their outcomes.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 9,
+        "description": "The system shall establish and implement procedures to create retrievable exact copies of electronic protected health information (ePHI)",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 10,
+        "description": "The system shall establish and implement procedures to maintain retrievable exact copies of electronic protected health information (ePHI)",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 11,
+        "description": "The system shall establish and implement procedures to restore any loss of electronic protected health information (ePHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 12,
+        "description": "The system shall support technical policies and procedures that allow access to electronic protected health information (ePHI) only for authorized users and authorized software programs.",
+        "Lexical": false,
+        "Syntactic": true,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 13,
+        "description": "The system shall assign a unique user identifier to each user to support identification and tracking of user identity.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 14,
+        "description": "The system shall support procedures for obtaining necessary electronic protected health information (ePHI) during an emergency.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 15,
+        "description": "The system shall support electronic procedures that automatically terminate a session after a predetermined period of inactivity.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 16,
+        "description": "The system shall implement a mechanism to encrypt and decrypt electronic protected health information (ePHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 17,
+        "description": "The system shall implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use electronic protected health information (ePHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 18,
+        "description": "The system shall support policies and procedures to protect electronic protected health information (ePHI) from improper alteration or destruction.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 19,
+        "description": "The system shall implement electronic mechanisms to corroborate that electronic protected health information (ePHI) has not been altered or destroyed in an unauthorized manner.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 20,
+        "description": "The system shall implement procedures to verify that a person or entity seeking access to electronic protected health information (ePHI) is the one claimed.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    }
+]

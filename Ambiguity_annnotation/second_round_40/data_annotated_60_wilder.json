@@ -1,0 +1,402 @@
+[
+    {
+        "id": 21,
+        "description": "The system shall allow a personal representative the same level of access as a person over their PHI.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": true
+    },
+    {
+        "id": 22,
+        "description": "The system shall treat a legally authorized person acting on behalf of an adult or emancipated minor as the personal representative for accessing protected health information (PHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 23,
+        "description": "The system shall treat a legally authorized person acting on behalf of an adult or emancipated minor as the personal representative for managing protected health information (PHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 24,
+        "description": "The system shall support allowing an unemancipated minor to act as the individual and restrict a parent or guardian’s access to protected health information (PHI) when the minor has legal authority over a specific health care service.",
+        "Lexical": false,
+        "Syntactic": true,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 25,
+        "description": "The system shall allow a legally authorized person to act as the personal representative of a deceased individual for accessing or managing protected health information (PHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 26,
+        "description": "The system shall allow the use of PHI for treatment operations without requiring individual authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 27,
+        "description": "The system shall allow the disclosure of PHI for treatment operations without requiring individual authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 28,
+        "description": "The system must treat an authorization as invalid if the expiration date has passed or if the expiration event has occurred.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 29,
+        "description": "The system must treat an authorization as invalid if any authorization element has not been filled out completely.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 30,
+        "description": "The system must treat an authorization as invalid if it has been revoked.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 31,
+        "description": "The system shall permit uses of protected health information for payment operations without requiring individual authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 32,
+        "description": "The system shall permit disclosures of protected health information for payment operations without requiring individual authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 33,
+        "description": "The system shall permit uses of protected health information for health care operations without requiring individual authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 34,
+        "description": "The system shall permit disclosures of protected health information for health care operations without requiring individual authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 35,
+        "description": "The system may support obtaining and recording individual consent for Treatment operations uses and disclosures, but shall not require such consent as a condition for permitting Treatment activities.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 36,
+        "description": "The system may support obtaining and recording individual consent for Payment operations uses and disclosures, but shall not require such consent as a condition for permitting Payment activities.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 37,
+        "description": "The system must treat an authorization as invalid if any material information in the authorization is known to be false.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 38,
+        "description": "The system must allow an individual to revoke an authorization at any time in writing.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 39,
+        "description": "The system shall prevent further use or disclosure of PHI under the authorization following revocation.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 40,
+        "description": "The system shall permit continued retention or contest-related use of PHI where the revoked authorization was a condition of obtaining insurance coverage and such retention rights apply.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 41,
+        "description": "The system shall ensure the confidentiality of all electronic protected health information (ePHI) that it creates.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 42,
+        "description": "The system shall ensure the confidentiality of all electronic protected health information (ePHI) that it receives.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 43,
+        "description": "The system shall ensure the confidentiality of all electronic protected health information (ePHI) that it maintains.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 44,
+        "description": "The system shall not permit an authorization for use or disclosure of protected health information to be combined with any other document to create a compound authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 45,
+        "description": "The system shall require that a valid authorization for use or disclosure of protected health information contain at least the following elements: (i) A description of the information to be used or disclosed that identifies the information in a specific and meaningful fashion. (ii) The name or other specific identification of the person(s), or class of persons, authorized to make the requested use or disclosure. (iii) The name or other specific identification of the person(s), or class of persons, to whom the covered entity may make the requested use or disclosure. (iv) A description of each purpose of the requested use or disclosure. The statement “at the request of the individual” is a sufficient description of the purpose when an individual initiates the authorization and does not, or elects not to, provide a statement of the purpose. (v) An expiration date or an expiration event that relates to the individual or the purpose of the use or disclosure. The statement “end of the research study,” “none,” or similar language is sufficient if the authorization is for a use or disclosure of protected health information for research, including for the creation and maintenance of a research database or research repository. (vi) Signature of the individual and date. If the authorization is signed by a personal representative of the individual, a description of such representative's authority to act for the individual must also be provided.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 46,
+        "description": "The system must ensure that each authorization includes a statement informing the individual of their right to revoke the authorization, and includes a description of any exceptions and how to revoke it.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 47,
+        "description": "The system must ensure that each authorization includes a statement explaining whether treatment, payment, enrollment, or eligibility for benefits can or cannot be conditioned on signing the authorization, and if it can, the consequences of not signing must be stated.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 48,
+        "description": "The system must ensure that each authorization includes a statement warning the individual that information disclosed under the authorization may be redisclosed by the recipient and may no longer be protected.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 49,
+        "description": "The system must ensure that each authorization is written in plain language.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 50,
+        "description": "The system shall support conducting an accurate and thorough assessment of potential risks and vulnerabilities to the confidentiality of electronic protected health information (ePHI)",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 51,
+        "description": "The system shall support procedures to determine that a workforce member’s access to electronic protected health information (ePHI) is appropriate.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 52,
+        "description": "The system shall support procedures for terminating a workforce member’s access to electronic protected health information (ePHI) when employment or other authorized arrangement ends.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 53,
+        "description": "The system shall implement policies and procedures for granting access to electronic protected health information (ePHI), for example via a workstation, transaction, program, process or other mechanism.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 54,
+        "description": "The system shall implement policies and procedures that establish a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 55,
+        "description": "The system shall implement policies and procedures that document a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 56,
+        "description": "The system shall implement policies and procedures that review a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 57,
+        "description": "The system shall implement policies and procedures that modify a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 58,
+        "description": "The system must ensure that the notice of privacy practices informs individuals of their right to request and receive a paper copy of the notice, even if they previously agreed to receive it electronically.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 59,
+        "description": "The system must ensure that a health care provider with a direct treatment relationship provides the notice no later than the date of the first service delivery, or as soon as reasonably practicable after emergency treatment.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 60,
+        "description": "The system must ensure that when a covered entity maintains a website that provides information about its customer services or benefits, the covered entity prominently posts its notice on the website and makes the notice available electronically through the website.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    }
+]

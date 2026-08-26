@@ -1,0 +1,882 @@
+[
+    {
+        "id": 61,
+        "description": "The system shall allow incidental uses of protected health information (PHI) only when the underlying use or disclosure is itself permitted or required.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 62,
+        "description": "The system shall allow incidental disclosures of protected health information (PHI) only when the underlying use or disclosure is itself permitted or required.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 63,
+        "description": "The system must disclose protected health information (PHI) to an individual when the individual requests a right to access.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 64,
+        "description": "The system must disclose protected health information (PHI) to an individual when the individual requests to receive an accounting of disclosures (meaning who has access to their PHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 65,
+        "description": "The system must allow individuals to request restrictions on the use or disclosure of their protected health information for health care operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 66,
+        "description": "The system must allow individuals to request an amendment to their protected health information maintained in designated record sets, for as long as the information is retained in those sets.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 67,
+        "description": "The system shall identify the records affected by the accepted amendment within the designated record set.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 68,
+        "description": "The system shall append or link the accepted amendment to the corresponding original record.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 69,
+        "description": "The system shall maintain a connection to receive PHI amendment notifications from external covered entities and apply any updates to the local designated record set upon transmission.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": true,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 70,
+        "description": "The system must record and retain The titles of persons or offices responsible for receiving and processing amendment requests",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 71,
+        "description": "The system must ensure that when an authorization is requested from an individual for the use or disclosure of protected health information, a copy of the signed authorization is provided to the individual.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 72,
+        "description": "The system may allow a covered entity to obtain an individual’s consent to use or disclose protected health information for treatment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 73,
+        "description": "The system may allow a covered entity to obtain an individual’s consent to use or disclose protected health information for payment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 74,
+        "description": "The system may allow a covered entity to obtain an individual’s consent to use or disclose protected health information for health care operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 75,
+        "description": "The system shall ensure that consent is not treated as valid for use or disclosure of protected health information when an authorization is required.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 76,
+        "description": "The system shall allow a covered entity to use or disclose protected health information for its own treatment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 77,
+        "description": "The system shall allow a covered entity to use or disclose protected health information for its own payment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 78,
+        "description": "The system shall allow a covered entity to use or disclose protected health information for its own health care operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 79,
+        "description": "The system shall allow a covered entity to disclose protected health information for the treatment activities of a health care provider.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 80,
+        "description": "The system shall allow a covered entity to disclose protected health information to another covered entity or to a health care provider for the payment activities of the receiving entity.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": true
+    },
+    {
+        "id": 81,
+        "description": "The system shall allow the use of protected health information (PHI) for treatment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 82,
+        "description": "The system shall allow the use of protected health information (PHI) for payment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 83,
+        "description": "The system shall allow the use of protected health information (PHI) for health care operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 84,
+        "description": "The system shall allow the disclosure of protected health information (PHI) for payment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 85,
+        "description": "The system shall allow the disclosure of protected health information (PHI) for health care operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 86,
+        "description": "The system must ensure that the covered entity may provide the required notice to an individual by email only if the individual has agreed to electronic notice and has not withdrawn that agreement.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 87,
+        "description": "The system must ensure that a paper copy of the notice is provided, If the covered entity knows that the email transmission has failed.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 88,
+        "description": "The system must ensure that an individual who receives electronic notice retains the right to obtain a paper copy of the notice from the covered entity upon request.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 89,
+        "description": "The system must allow individuals to request restrictions on the use or disclosure of their protected health information for treatment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 90,
+        "description": "The system must allow individuals to request restrictions on the use or disclosure of their protected health information for payment operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 91,
+        "description": "The system shall ensure the integrity of all electronic protected health information (ePHI) that it creates.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 92,
+        "description": "The system shall ensure the integrity of all electronic protected health information (ePHI) that it receives.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 93,
+        "description": "The system shall ensure the integrity of all electronic protected health information (ePHI) that it maintains.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 94,
+        "description": "The system shall implement procedures for guarding against malicious software.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 95,
+        "description": "The system shall implement procedures for detecting malicious software.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 96,
+        "description": "The system shall implement procedures for reporting malicious software.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 97,
+        "description": "The system must ensure that individuals who are the subjects of records related to substance use disorder treatment receive adequate notice of their rights.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 98,
+        "description": "The system must ensure that individuals who are the subjects of records related to substance use disorder treatment receive adequate notice of the covered entity’s legal duties with respect to those records.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 99,
+        "description": "The system must ensure that the notice of privacy practices includes a statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices, and to notify affected individuals in the event of a breach involving unsecured protected health information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 100,
+        "description": "The system must ensure that the notice of privacy practices includes a statement that the covered entity is required to follow the terms of the notice currently in effect.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 101,
+        "description": "The system shall support implementing security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with the general security requirements.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 102,
+        "description": "The system shall support procedures to regularly review records of information system activity, including audit logs, access reports, and security incident tracking reports.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 103,
+        "description": "The system shall support implementing policies and procedures to ensure that workforce members have appropriate access to electronic protected health information (ePHI), and to prevent access by workforce members who are not authorized.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 104,
+        "description": "The system shall support procedures for the authorization and/or supervision of workforce members who work with electronic protected health information (ePHI) or in locations where ePHI might be accessed.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 105,
+        "description": "The system must ensure that the notice of privacy practices includes a statement informing individuals of their right to request restrictions on certain uses and disclosures of protected health information (i.e., treatment, payment, or health care operations), along with a clarification that the covered entity is not required to agree to such requests.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 106,
+        "description": "The system must ensure that the notice of privacy practices informs individuals of their right to request to receive protected health information through confidential communications.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 107,
+        "description": "The system must ensure that the notice of privacy practices informs individuals of their right to inspect their protected health information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 108,
+        "description": "The system must ensure that the notice of privacy practices informs individuals of their right to obtain a copy of their protected health information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 109,
+        "description": "The system must ensure that the notice of privacy practices informs individuals of their right to request an amendment to their protected health information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 110,
+        "description": "The system must ensure that the notice of privacy practices informs individuals of their right to receive a record of disclosures of their protected health information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 111,
+        "description": "The system shall support conducting an accurate and thorough assessment of potential risks and vulnerabilities to the integrity of electronic protected health information (ePHI)",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 112,
+        "description": "The system shall support conducting an accurate and thorough assessment of potential risks and vulnerabilities to the availability of electronic protected health information (ePHI)",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 113,
+        "description": "The system must ensure that each description of permitted or required use or disclosure includes sufficient detail to notify the individual of how their information may be used or disclosed.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 114,
+        "description": "The system must ensure that the notice of privacy practices describes the types of uses and disclosures that require written authorization, includes a statement that any other uses or disclosures will only be made with written authorization, and informs the individual of their right to revoke that authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 115,
+        "description": "The system must ensure that the notice of privacy practices includes a description, with at least one example, of the types of uses and disclosures that are prohibited, written in sufficient detail for individuals to understand the prohibition.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 116,
+        "description": "The system must ensure that the notice of privacy practices includes a description, with at least one example, of the types of uses and disclosures that require an attestation.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 117,
+        "description": "The system must ensure that the notice of privacy practices contains a statement informing individuals that information disclosed may be subject to redisclosure by the recipient and may no longer be protected.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 118,
+        "description": "The system shall not allow a covered entity to use or disclose protected health information without a valid authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 119,
+        "description": "The system shall ensure that any use or disclosure of PHI does not exceed the scope defined in the authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 120,
+        "description": "The system may support obtaining and recording individual consent for health care Operations uses and disclosures, but shall not require such consent as a condition for permitting health care Operations activities.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 121,
+        "description": "The system shall protect against any reasonably anticipated threats or hazards to the security of electronic protected health information (ePHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 122,
+        "description": "The system shall protect against any reasonably anticipated threats or hazards to the integrity of electronic protected health information (ePHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 123,
+        "description": "The system shall protect against any reasonably anticipated uses of electronic protected health information (ePHI) that are not permitted or required.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 124,
+        "description": "The system shall protect against any disclosures of electronic protected health information (ePHI) that are not permitted or required.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 125,
+        "description": "The system must ensure that individuals receive adequate notice of the uses and disclosures of protected health information that may be made by the covered entity.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 126,
+        "description": "The system must ensure that individuals receive adequate notice of the individuals’ rights.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 127,
+        "description": "The system must ensure that individuals receive adequate notice of the covered entity’s legal duties regarding protected health information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 128,
+        "description": "The system shall ensure that any use, disclosure, or request of protected health information (PHI) is limited to the minimum amount necessary to accomplish the intended purpose.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 129,
+        "description": "The system shall treat any disclosure of a code or mechanism that enables re-identification as a disclosure of protected health information (PHI).",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 130,
+        "description": "The system must ensure that individuals who are the subjects of records related to substance use disorder treatment receive adequate notice of the uses and disclosures of those records.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 131,
+        "description": "The system shall ensure the availability of all electronic protected health information (ePHI) that it creates.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 132,
+        "description": "The system shall ensure the availability of all electronic protected health information (ePHI) that it receives.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 133,
+        "description": "The system shall ensure the availability of all electronic protected health information (ePHI) that it maintains.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 134,
+        "description": "The system shall ensure the availability of all electronic protected health information (ePHI) that it transmits.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 135,
+        "description": "The system must implement policies and procedures that limit the amount of protected health information disclosed during routine and recurring disclosures to only what is reasonably necessary to achieve the disclosure’s purpose.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 136,
+        "description": "The system shall support the organization in implementing policies and procedures to prevent security violations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 137,
+        "description": "The system shall support the organization in implementing policies and procedures to detect security violations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 138,
+        "description": "The system shall support the organization in implementing policies and procedures to contain security violations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 139,
+        "description": "The system shall support the organization in implementing policies and procedures to correct security violations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 140,
+        "description": "The system must ensure that the notice of privacy practices is written in plain language.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 141,
+        "description": "The system shall allow the use of protected health information (PHI) to the individual who is the subject of the information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 142,
+        "description": "The system shall allow the disclosure of protected health information (PHI) to the individual who is the subject of the information.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 143,
+        "description": "The system shall allow disclosing protected health information (PHI) when required for compliance investigations by the regulatory authority.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": true
+    },
+    {
+        "id": 144,
+        "description": "The system shall support disclosing protected health information (PHI) when required for regulatory compliance investigations by the Secretary.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 145,
+        "description": "The system must ensure that the notice of privacy practices includes the following prominently displayed statement:“THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.”",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 146,
+        "description": "The system must ensure that the notice of privacy practices contains a description, including at least one example, of the types of uses and disclosures permitted for treatment, payment, and health care operations.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": false,
+        "Referential": false
+    },
+    {
+        "id": 147,
+        "description": "The system must ensure that the notice of privacy practices includes a description of each other purpose for which protected health information may be used or disclosed without the individual’s written authorization.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": false,
+        "Incompleteness": true,
+        "Referential": false
+    },
+    {
+        "id": 148,
+        "description": "The system must ensure that the notice of privacy practices reflects any prohibition or material limitation on uses or disclosures imposed by other applicable law, and that the description reflects the stricter standard when required.",
+        "Lexical": false,
+        "Syntactic": false,
+        "Semantic": false,
+        "Vagueness": true,
+        "Incompleteness": true,
+        "Referential": false
+    }
+]
