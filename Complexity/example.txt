@@ -1,0 +1,148 @@
+The system shall implement procedures for monitoring log-in attempts and reporting discrepancies.
+The system shall implement procedures for creating passwords.
+The system shall implement procedures for changing passwords.
+The system shall implement procedures for safeguarding passwords.
+The system shall support implementing policies and procedures to address security incidents.
+The system shall identify and respond to suspected or known security incidents.
+The system shall mitigate harmful effects to the extent practicable after a suspected or known security incidents.
+The system shall document security incidents and their outcomes.
+The system shall establish and implement procedures to create retrievable exact copies of electronic protected health information (ePHI)
+The system shall establish and implement procedures to maintain retrievable exact copies of electronic protected health information (ePHI)
+The system shall establish and implement procedures to restore any loss of electronic protected health information (ePHI).
+The system shall support technical policies and procedures that allow access to electronic protected health information (ePHI) only for authorized users and authorized software programs.
+The system shall assign a unique user identifier to each user to support identification and tracking of user identity.
+The system shall support procedures for obtaining necessary electronic protected health information (ePHI) during an emergency.
+The system shall support electronic procedures that automatically terminate a session after a predetermined period of inactivity.
+The system shall implement a mechanism to encrypt and decrypt electronic protected health information (ePHI).
+The system shall implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use electronic protected health information (ePHI).
+The system shall support policies and procedures to protect electronic protected health information (ePHI) from improper alteration or destruction.
+The system shall implement electronic mechanisms to corroborate that electronic protected health information (ePHI) has not been altered or destroyed in an unauthorized manner.
+The system shall implement procedures to verify that a person or entity seeking access to electronic protected health information (ePHI) is the one claimed.
+The system shall allow a personal representative the same level of access as a person over their PHI.
+The system shall treat a legally authorized person acting on behalf of an adult or emancipated minor as the personal representative for accessing protected health information (PHI).
+The system shall treat a legally authorized person acting on behalf of an adult or emancipated minor as the personal representative for managing protected health information (PHI).
+The system shall support allowing an unemancipated minor to act as the individual and restrict a parent or guardian’s access to protected health information (PHI) when the minor has legal authority over a specific health care service.
+The system shall allow a legally authorized person to act as the personal representative of a deceased individual for accessing or managing protected health information (PHI).
+The system shall allow the use of PHI for treatment operations without requiring individual authorization.
+The system shall allow the disclosure of PHI for treatment operations without requiring individual authorization.
+The system must treat an authorization as invalid if the expiration date has passed or if the expiration event has occurred.
+The system must treat an authorization as invalid if any authorization element has not been filled out completely.
+The system must treat an authorization as invalid if it has been revoked.
+The system shall permit uses of protected health information for payment operations without requiring individual authorization.
+The system shall permit disclosures of protected health information for payment operations without requiring individual authorization.
+The system shall permit uses of protected health information for health care operations without requiring individual authorization.
+The system shall permit disclosures of protected health information for health care operations without requiring individual authorization.
+The system may support obtaining and recording individual consent for Treatment operations uses and disclosures, but shall not require such consent as a condition for permitting Treatment activities.
+The system may support obtaining and recording individual consent for Payment operations uses and disclosures, but shall not require such consent as a condition for permitting Payment activities.
+The system must treat an authorization as invalid if any material information in the authorization is known to be false.
+The system must allow an individual to revoke an authorization at any time in writing.
+The system shall prevent further use or disclosure of PHI under the authorization following revocation.
+The system shall permit continued retention or contest-related use of PHI where the revoked authorization was a condition of obtaining insurance coverage and such retention rights apply.
+The system shall ensure the confidentiality of all electronic protected health information (ePHI) that it creates.
+The system shall ensure the confidentiality of all electronic protected health information (ePHI) that it receives.
+The system shall ensure the confidentiality of all electronic protected health information (ePHI) that it maintains.
+The system shall not permit an authorization for use or disclosure of protected health information to be combined with any other document to create a compound authorization.
+The system shall require that a valid authorization for use or disclosure of protected health information contain at least the following elements: (i) A description of the information to be used or disclosed that identifies the information in a specific and meaningful fashion. (ii) The name or other specific identification of the person(s), or class of persons, authorized to make the requested use or disclosure. (iii) The name or other specific identification of the person(s), or class of persons, to whom the covered entity may make the requested use or disclosure. (iv) A description of each purpose of the requested use or disclosure. The statement “at the request of the individual” is a sufficient description of the purpose when an individual initiates the authorization and does not, or elects not to, provide a statement of the purpose. (v) An expiration date or an expiration event that relates to the individual or the purpose of the use or disclosure. The statement “end of the research study,” “none,” or similar language is sufficient if the authorization is for a use or disclosure of protected health information for research, including for the creation and maintenance of a research database or research repository. (vi) Signature of the individual and date. If the authorization is signed by a personal representative of the individual, a description of such representative's authority to act for the individual must also be provided.
+The system must ensure that each authorization includes a statement informing the individual of their right to revoke the authorization, and includes a description of any exceptions and how to revoke it.
+The system must ensure that each authorization includes a statement explaining whether treatment, payment, enrollment, or eligibility for benefits can or cannot be conditioned on signing the authorization, and if it can, the consequences of not signing must be stated.
+The system must ensure that each authorization includes a statement warning the individual that information disclosed under the authorization may be redisclosed by the recipient and may no longer be protected.
+The system must ensure that each authorization is written in plain language.
+The system shall support conducting an accurate and thorough assessment of potential risks and vulnerabilities to the confidentiality of electronic protected health information (ePHI)
+The system shall support procedures to determine that a workforce member’s access to electronic protected health information (ePHI) is appropriate.
+The system shall support procedures for terminating a workforce member’s access to electronic protected health information (ePHI) when employment or other authorized arrangement ends.
+The system shall implement policies and procedures for granting access to electronic protected health information (ePHI), for example via a workstation, transaction, program, process or other mechanism.
+The system shall implement policies and procedures that establish a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.
+The system shall implement policies and procedures that document a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.
+The system shall implement policies and procedures that review a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.
+The system shall implement policies and procedures that modify a user’s right of access to a workstation, transaction, program, or process based on the organization’s access authorization policies.
+The system must ensure that the notice of privacy practices informs individuals of their right to request and receive a paper copy of the notice, even if they previously agreed to receive it electronically.
+The system must ensure that a health care provider with a direct treatment relationship provides the notice no later than the date of the first service delivery, or as soon as reasonably practicable after emergency treatment.
+The system must ensure that when a covered entity maintains a website that provides information about its customer services or benefits, the covered entity prominently posts its notice on the website and makes the notice available electronically through the website.
+The system shall allow incidental uses of protected health information (PHI) only when the underlying use or disclosure is itself permitted or required.
+The system shall allow incidental disclosures of protected health information (PHI) only when the underlying use or disclosure is itself permitted or required.
+The system must disclose protected health information (PHI) to an individual when the individual requests a right to access.
+The system must disclose protected health information (PHI) to an individual when the individual requests to receive an accounting of disclosures (meaning who has access to their PHI).
+The system must allow individuals to request restrictions on the use or disclosure of their protected health information for health care operations.
+The system must allow individuals to request an amendment to their protected health information maintained in designated record sets, for as long as the information is retained in those sets.
+The system shall identify the records affected by the accepted amendment within the designated record set.
+The system shall append or link the accepted amendment to the corresponding original record.
+The system shall maintain a connection to receive PHI amendment notifications from external covered entities and apply any updates to the local designated record set upon transmission.
+The system must record and retain The titles of persons or offices responsible for receiving and processing amendment requests
+The system must ensure that when an authorization is requested from an individual for the use or disclosure of protected health information, a copy of the signed authorization is provided to the individual.
+The system may allow a covered entity to obtain an individual’s consent to use or disclose protected health information for treatment operations.
+The system may allow a covered entity to obtain an individual’s consent to use or disclose protected health information for payment operations.
+The system may allow a covered entity to obtain an individual’s consent to use or disclose protected health information for health care operations.
+The system shall ensure that consent is not treated as valid for use or disclosure of protected health information when an authorization is required.
+The system shall allow a covered entity to use or disclose protected health information for its own treatment operations.
+The system shall allow a covered entity to use or disclose protected health information for its own payment operations.
+The system shall allow a covered entity to use or disclose protected health information for its own health care operations.
+The system shall allow a covered entity to disclose protected health information for the treatment activities of a health care provider.
+The system shall allow a covered entity to disclose protected health information to another covered entity or to a health care provider for the payment activities of the receiving entity.
+The system shall allow the use of protected health information (PHI) for treatment operations.
+The system shall allow the use of protected health information (PHI) for payment operations.
+The system shall allow the use of protected health information (PHI) for health care operations.
+The system shall allow the disclosure of protected health information (PHI) for payment operations.
+The system shall allow the disclosure of protected health information (PHI) for health care operations.
+The system must ensure that the covered entity may provide the required notice to an individual by email only if the individual has agreed to electronic notice and has not withdrawn that agreement.
+The system must ensure that a paper copy of the notice is provided, If the covered entity knows that the email transmission has failed.
+The system must ensure that an individual who receives electronic notice retains the right to obtain a paper copy of the notice from the covered entity upon request.
+The system must allow individuals to request restrictions on the use or disclosure of their protected health information for treatment operations.
+The system must allow individuals to request restrictions on the use or disclosure of their protected health information for payment operations.
+The system shall ensure the integrity of all electronic protected health information (ePHI) that it creates.
+The system shall ensure the integrity of all electronic protected health information (ePHI) that it receives.
+The system shall ensure the integrity of all electronic protected health information (ePHI) that it maintains.
+The system shall implement procedures for guarding against malicious software.
+The system shall implement procedures for detecting malicious software.
+The system shall implement procedures for reporting malicious software.
+The system must ensure that individuals who are the subjects of records related to substance use disorder treatment receive adequate notice of their rights.
+The system must ensure that individuals who are the subjects of records related to substance use disorder treatment receive adequate notice of the covered entity’s legal duties with respect to those records.
+The system must ensure that the notice of privacy practices includes a statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices, and to notify affected individuals in the event of a breach involving unsecured protected health information.
+The system must ensure that the notice of privacy practices includes a statement that the covered entity is required to follow the terms of the notice currently in effect.
+The system shall support implementing security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with the general security requirements.
+The system shall support procedures to regularly review records of information system activity, including audit logs, access reports, and security incident tracking reports.
+The system shall support implementing policies and procedures to ensure that workforce members have appropriate access to electronic protected health information (ePHI), and to prevent access by workforce members who are not authorized.
+The system shall support procedures for the authorization and/or supervision of workforce members who work with electronic protected health information (ePHI) or in locations where ePHI might be accessed.
+The system must ensure that the notice of privacy practices includes a statement informing individuals of their right to request restrictions on certain uses and disclosures of protected health information (i.e., treatment, payment, or health care operations), along with a clarification that the covered entity is not required to agree to such requests.
+The system must ensure that the notice of privacy practices informs individuals of their right to request to receive protected health information through confidential communications.
+The system must ensure that the notice of privacy practices informs individuals of their right to inspect their protected health information.
+The system must ensure that the notice of privacy practices informs individuals of their right to obtain a copy of their protected health information.
+The system must ensure that the notice of privacy practices informs individuals of their right to request an amendment to their protected health information.
+The system must ensure that the notice of privacy practices informs individuals of their right to receive a record of disclosures of their protected health information.
+The system shall support conducting an accurate and thorough assessment of potential risks and vulnerabilities to the integrity of electronic protected health information (ePHI)
+The system shall support conducting an accurate and thorough assessment of potential risks and vulnerabilities to the availability of electronic protected health information (ePHI)
+The system must ensure that each description of permitted or required use or disclosure includes sufficient detail to notify the individual of how their information may be used or disclosed.
+The system must ensure that the notice of privacy practices describes the types of uses and disclosures that require written authorization, includes a statement that any other uses or disclosures will only be made with written authorization, and informs the individual of their right to revoke that authorization.
+The system must ensure that the notice of privacy practices includes a description, with at least one example, of the types of uses and disclosures that are prohibited, written in sufficient detail for individuals to understand the prohibition.
+The system must ensure that the notice of privacy practices includes a description, with at least one example, of the types of uses and disclosures that require an attestation.
+The system must ensure that the notice of privacy practices contains a statement informing individuals that information disclosed may be subject to redisclosure by the recipient and may no longer be protected.
+The system shall not allow a covered entity to use or disclose protected health information without a valid authorization.
+The system shall ensure that any use or disclosure of PHI does not exceed the scope defined in the authorization.
+The system may support obtaining and recording individual consent for health care Operations uses and disclosures, but shall not require such consent as a condition for permitting health care Operations activities.
+The system shall protect against any reasonably anticipated threats or hazards to the security of electronic protected health information (ePHI).
+The system shall protect against any reasonably anticipated threats or hazards to the integrity of electronic protected health information (ePHI).
+The system shall protect against any reasonably anticipated uses of electronic protected health information (ePHI) that are not permitted or required.
+The system shall protect against any disclosures of electronic protected health information (ePHI) that are not permitted or required.
+The system must ensure that individuals receive adequate notice of the uses and disclosures of protected health information that may be made by the covered entity.
+The system must ensure that individuals receive adequate notice of the individuals’ rights.
+The system must ensure that individuals receive adequate notice of the covered entity’s legal duties regarding protected health information.
+The system shall ensure that any use, disclosure, or request of protected health information (PHI) is limited to the minimum amount necessary to accomplish the intended purpose.
+The system shall treat any disclosure of a code or mechanism that enables re-identification as a disclosure of protected health information (PHI).
+The system must ensure that individuals who are the subjects of records related to substance use disorder treatment receive adequate notice of the uses and disclosures of those records.
+The system shall ensure the availability of all electronic protected health information (ePHI) that it creates.
+The system shall ensure the availability of all electronic protected health information (ePHI) that it receives.
+The system shall ensure the availability of all electronic protected health information (ePHI) that it maintains.
+The system shall ensure the availability of all electronic protected health information (ePHI) that it transmits.
+The system must implement policies and procedures that limit the amount of protected health information disclosed during routine and recurring disclosures to only what is reasonably necessary to achieve the disclosure’s purpose.
+The system shall support the organization in implementing policies and procedures to prevent security violations.
+The system shall support the organization in implementing policies and procedures to detect security violations.
+The system shall support the organization in implementing policies and procedures to contain security violations.
+The system shall support the organization in implementing policies and procedures to correct security violations.
+The system must ensure that the notice of privacy practices is written in plain language.
+The system shall allow the use of protected health information (PHI) to the individual who is the subject of the information.
+The system shall allow the disclosure of protected health information (PHI) to the individual who is the subject of the information.
+The system shall allow disclosing protected health information (PHI) when required for compliance investigations by the regulatory authority.
+The system shall support disclosing protected health information (PHI) when required for regulatory compliance investigations by the Secretary.
+The system must ensure that the notice of privacy practices includes the following prominently displayed statement:“THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.”
+The system must ensure that the notice of privacy practices contains a description, including at least one example, of the types of uses and disclosures permitted for treatment, payment, and health care operations.
+The system must ensure that the notice of privacy practices includes a description of each other purpose for which protected health information may be used or disclosed without the individual’s written authorization.
+The system must ensure that the notice of privacy practices reflects any prohibition or material limitation on uses or disclosures imposed by other applicable law, and that the description reflects the stricter standard when required.
